@@ -1,4 +1,4 @@
 import feladatok
 import gyakorlas
 
-gyakorlas.feladat1()
+gyakorlas.feladat5("tacskó")
